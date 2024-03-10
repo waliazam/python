@@ -1,6 +1,6 @@
 
-# Creating a list
-my_list = [1, "Hello", 3.14]
+# Creating a list   
+my_list = [4, "Hello", 3.14]
 
 # Accessing list elements
 print(my_list[1])  # Output: Hello
