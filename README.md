@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-# python
 Automate the boring stuff
 =======
 # Python Learning
